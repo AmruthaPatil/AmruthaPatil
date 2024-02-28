@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m a MS Computer Engineering student at New York Univerity (NYU)
 - 🔭 I’m currently working on High performance Machine Learning projects
+- 🚀 Tech stack: Python, C/C++, SQL, PL/SQL, Javascript, HTML & CSS
 - 💬 Ask me about: Data engineering and Tea 🧋
 - 📫 How to reach me: ap7982@nyu.edu
 - 😄 Pronouns: She/her/hers
