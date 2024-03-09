@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ap7982@nyu.edu
 - 😄 Pronouns: She/her/hers
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amruthapatil)](https://github.com/anuraghazra/github-readme-stats)
+-->
