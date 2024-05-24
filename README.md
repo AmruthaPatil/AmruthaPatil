@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m a MS Computer Engineering student at New York Univerity (NYU)
-- 🔭 I’m currently working on High performance Machine Learning projects
+- 🔭 I’m currently working on Cloud Computing projects
 - 🚀 Tech stack: Python, C/C++, SQL, PL/SQL, Javascript, HTML & CSS
 - 💕 I'm interested in: AI/ML, Data Science, Data Engineering, Game development
 - 💬 Ask me about: Data engineering and Tea 🧋
