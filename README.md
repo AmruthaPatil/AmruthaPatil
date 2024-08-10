@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m a MS Computer Engineering student at New York Univerity (NYU)
+- 🌱 I’m a recent MS Computer Engineering graduate from New York Univerity (NYU)
 - 🔭 I’m currently working on Cloud Computing projects
 - 🚀 Tech stack: Python, C/C++, SQL, PL/SQL, Javascript, HTML & CSS
 - 💕 I'm interested in: AI/ML, Data Science, Data Engineering, Game development
